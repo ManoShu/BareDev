@@ -1203,7 +1203,7 @@ U 1 1 00000401
 P 14400 3000
 F 0 "K_40" H 14400 3233 60  0000 C CNN
 F 1 "KEYSW" H 14400 2900 60  0001 C CNN
-F 2 "MX_Alps_Hybrid:MX-1.25U-NoLED" H 14400 3000 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MX-ISOEnter-NoLED" H 14400 3000 60  0001 C CNN
 F 3 "" H 14400 3000 60  0000 C CNN
 	1    14400 3000
 	1    0    0    -1  
@@ -2872,9 +2872,9 @@ Wire Wire Line
 	2400 12300 2500 12300
 Wire Wire Line
 	2400 11750 2400 11900
-Text GLabel 1500 13300 0    50   Input ~ 0
+Text GLabel 1500 13300 0    50   Output ~ 0
 D+
-Text GLabel 1500 13400 0    50   Input ~ 0
+Text GLabel 1500 13400 0    50   Output ~ 0
 D-
 $Comp
 L random-keyboard-parts:Molex-0548190589 USB1
