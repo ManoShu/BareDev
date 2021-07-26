@@ -33,7 +33,7 @@ F 3 "" H 1400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_0
+L keyboard-rescue:D_Small-Device D_0
 U 1 1 00000000
 P 1350 1300
 F 0 "D_0" V 1420 1200 50  0000 R CNN
@@ -67,7 +67,7 @@ F 3 "" H 3400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_1
+L keyboard-rescue:D_Small-Device D_1
 U 1 1 00000010
 P 3350 1300
 F 0 "D_1" V 3420 1200 50  0000 R CNN
@@ -99,7 +99,7 @@ F 3 "" H 4400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_2
+L keyboard-rescue:D_Small-Device D_2
 U 1 1 00000020
 P 4350 1300
 F 0 "D_2" V 4420 1200 50  0000 R CNN
@@ -131,7 +131,7 @@ F 3 "" H 5400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_3
+L keyboard-rescue:D_Small-Device D_3
 U 1 1 00000030
 P 5350 1300
 F 0 "D_3" V 5420 1200 50  0000 R CNN
@@ -163,7 +163,7 @@ F 3 "" H 6400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_4
+L keyboard-rescue:D_Small-Device D_4
 U 1 1 00000040
 P 6350 1300
 F 0 "D_4" V 6420 1200 50  0000 R CNN
@@ -197,7 +197,7 @@ F 3 "" H 8400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_5
+L keyboard-rescue:D_Small-Device D_5
 U 1 1 00000050
 P 8350 1300
 F 0 "D_5" V 8420 1200 50  0000 R CNN
@@ -229,7 +229,7 @@ F 3 "" H 9400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_6
+L keyboard-rescue:D_Small-Device D_6
 U 1 1 00000060
 P 9350 1300
 F 0 "D_6" V 9420 1200 50  0000 R CNN
@@ -261,7 +261,7 @@ F 3 "" H 10400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_7
+L keyboard-rescue:D_Small-Device D_7
 U 1 1 00000070
 P 10350 1300
 F 0 "D_7" V 10420 1200 50  0000 R CNN
@@ -293,7 +293,7 @@ F 3 "" H 11400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_8
+L keyboard-rescue:D_Small-Device D_8
 U 1 1 00000080
 P 11350 1300
 F 0 "D_8" V 11420 1200 50  0000 R CNN
@@ -325,7 +325,7 @@ F 3 "" H 12400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_9
+L keyboard-rescue:D_Small-Device D_9
 U 1 1 00000090
 P 12350 1300
 F 0 "D_9" V 12420 1200 50  0000 R CNN
@@ -357,7 +357,7 @@ F 3 "" H 13400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_10
+L keyboard-rescue:D_Small-Device D_10
 U 1 1 00000100
 P 13350 1300
 F 0 "D_10" V 13420 1200 50  0000 R CNN
@@ -389,7 +389,7 @@ F 3 "" H 14400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_11
+L keyboard-rescue:D_Small-Device D_11
 U 1 1 00000110
 P 14350 1300
 F 0 "D_11" V 14420 1200 50  0000 R CNN
@@ -421,7 +421,7 @@ F 3 "" H 15400 1000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_12
+L keyboard-rescue:D_Small-Device D_12
 U 1 1 00000120
 P 15350 1300
 F 0 "D_12" V 15420 1200 50  0000 R CNN
@@ -452,7 +452,7 @@ F 3 "" H 1400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_13
+L keyboard-rescue:D_Small-Device D_13
 U 1 1 00000130
 P 1350 2300
 F 0 "D_13" V 1420 2200 50  0000 R CNN
@@ -480,7 +480,7 @@ F 3 "" H 2400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_14
+L keyboard-rescue:D_Small-Device D_14
 U 1 1 00000140
 P 2350 2300
 F 0 "D_14" V 2420 2200 50  0000 R CNN
@@ -508,7 +508,7 @@ F 3 "" H 3400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_15
+L keyboard-rescue:D_Small-Device D_15
 U 1 1 00000150
 P 3350 2300
 F 0 "D_15" V 3420 2200 50  0000 R CNN
@@ -536,7 +536,7 @@ F 3 "" H 4400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_16
+L keyboard-rescue:D_Small-Device D_16
 U 1 1 00000160
 P 4350 2300
 F 0 "D_16" V 4420 2200 50  0000 R CNN
@@ -564,7 +564,7 @@ F 3 "" H 5400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_17
+L keyboard-rescue:D_Small-Device D_17
 U 1 1 00000170
 P 5350 2300
 F 0 "D_17" V 5420 2200 50  0000 R CNN
@@ -592,7 +592,7 @@ F 3 "" H 6400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_18
+L keyboard-rescue:D_Small-Device D_18
 U 1 1 00000180
 P 6350 2300
 F 0 "D_18" V 6420 2200 50  0000 R CNN
@@ -620,7 +620,7 @@ F 3 "" H 7400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_19
+L keyboard-rescue:D_Small-Device D_19
 U 1 1 00000190
 P 7350 2300
 F 0 "D_19" V 7420 2200 50  0000 R CNN
@@ -648,7 +648,7 @@ F 3 "" H 8400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_20
+L keyboard-rescue:D_Small-Device D_20
 U 1 1 00000200
 P 8350 2300
 F 0 "D_20" V 8420 2200 50  0000 R CNN
@@ -676,7 +676,7 @@ F 3 "" H 9400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_21
+L keyboard-rescue:D_Small-Device D_21
 U 1 1 00000210
 P 9350 2300
 F 0 "D_21" V 9420 2200 50  0000 R CNN
@@ -704,7 +704,7 @@ F 3 "" H 10400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_22
+L keyboard-rescue:D_Small-Device D_22
 U 1 1 00000220
 P 10350 2300
 F 0 "D_22" V 10420 2200 50  0000 R CNN
@@ -732,7 +732,7 @@ F 3 "" H 11400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_23
+L keyboard-rescue:D_Small-Device D_23
 U 1 1 00000230
 P 11350 2300
 F 0 "D_23" V 11420 2200 50  0000 R CNN
@@ -760,7 +760,7 @@ F 3 "" H 12400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_24
+L keyboard-rescue:D_Small-Device D_24
 U 1 1 00000240
 P 12350 2300
 F 0 "D_24" V 12420 2200 50  0000 R CNN
@@ -788,7 +788,7 @@ F 3 "" H 13400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_25
+L keyboard-rescue:D_Small-Device D_25
 U 1 1 00000250
 P 13350 2300
 F 0 "D_25" V 13420 2200 50  0000 R CNN
@@ -816,7 +816,7 @@ F 3 "" H 14400 2000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_26
+L keyboard-rescue:D_Small-Device D_26
 U 1 1 00000260
 P 14350 2300
 F 0 "D_26" V 14420 2200 50  0000 R CNN
@@ -847,7 +847,7 @@ F 3 "" H 1400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_27
+L keyboard-rescue:D_Small-Device D_27
 U 1 1 00000270
 P 1350 3300
 F 0 "D_27" V 1420 3200 50  0000 R CNN
@@ -875,7 +875,7 @@ F 3 "" H 2400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_28
+L keyboard-rescue:D_Small-Device D_28
 U 1 1 00000280
 P 2350 3300
 F 0 "D_28" V 2420 3200 50  0000 R CNN
@@ -903,7 +903,7 @@ F 3 "" H 3400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_29
+L keyboard-rescue:D_Small-Device D_29
 U 1 1 00000290
 P 3350 3300
 F 0 "D_29" V 3420 3200 50  0000 R CNN
@@ -931,7 +931,7 @@ F 3 "" H 4400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_30
+L keyboard-rescue:D_Small-Device D_30
 U 1 1 00000300
 P 4350 3300
 F 0 "D_30" V 4420 3200 50  0000 R CNN
@@ -959,7 +959,7 @@ F 3 "" H 5400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_31
+L keyboard-rescue:D_Small-Device D_31
 U 1 1 00000310
 P 5350 3300
 F 0 "D_31" V 5420 3200 50  0000 R CNN
@@ -987,7 +987,7 @@ F 3 "" H 6400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_32
+L keyboard-rescue:D_Small-Device D_32
 U 1 1 00000320
 P 6350 3300
 F 0 "D_32" V 6420 3200 50  0000 R CNN
@@ -1015,7 +1015,7 @@ F 3 "" H 7400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_33
+L keyboard-rescue:D_Small-Device D_33
 U 1 1 00000330
 P 7350 3300
 F 0 "D_33" V 7420 3200 50  0000 R CNN
@@ -1043,7 +1043,7 @@ F 3 "" H 8400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_34
+L keyboard-rescue:D_Small-Device D_34
 U 1 1 00000340
 P 8350 3300
 F 0 "D_34" V 8420 3200 50  0000 R CNN
@@ -1071,7 +1071,7 @@ F 3 "" H 9400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_35
+L keyboard-rescue:D_Small-Device D_35
 U 1 1 00000350
 P 9350 3300
 F 0 "D_35" V 9420 3200 50  0000 R CNN
@@ -1099,7 +1099,7 @@ F 3 "" H 10400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_36
+L keyboard-rescue:D_Small-Device D_36
 U 1 1 00000360
 P 10350 3300
 F 0 "D_36" V 10420 3200 50  0000 R CNN
@@ -1127,7 +1127,7 @@ F 3 "" H 11400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_37
+L keyboard-rescue:D_Small-Device D_37
 U 1 1 00000370
 P 11350 3300
 F 0 "D_37" V 11420 3200 50  0000 R CNN
@@ -1155,7 +1155,7 @@ F 3 "" H 12400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_38
+L keyboard-rescue:D_Small-Device D_38
 U 1 1 00000380
 P 12350 3300
 F 0 "D_38" V 12420 3200 50  0000 R CNN
@@ -1183,7 +1183,7 @@ F 3 "" H 13400 3000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_39
+L keyboard-rescue:D_Small-Device D_39
 U 1 1 00000390
 P 13350 3300
 F 0 "D_39" V 13420 3200 50  0000 R CNN
@@ -1214,7 +1214,7 @@ F 3 "" H 1400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_41
+L keyboard-rescue:D_Small-Device D_41
 U 1 1 00000410
 P 1350 4300
 F 0 "D_41" V 1420 4200 50  0000 R CNN
@@ -1242,7 +1242,7 @@ F 3 "" H 2400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_42
+L keyboard-rescue:D_Small-Device D_42
 U 1 1 00000420
 P 2350 4300
 F 0 "D_42" V 2420 4200 50  0000 R CNN
@@ -1270,7 +1270,7 @@ F 3 "" H 3400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_43
+L keyboard-rescue:D_Small-Device D_43
 U 1 1 00000430
 P 3350 4300
 F 0 "D_43" V 3420 4200 50  0000 R CNN
@@ -1298,7 +1298,7 @@ F 3 "" H 4400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_44
+L keyboard-rescue:D_Small-Device D_44
 U 1 1 00000440
 P 4350 4300
 F 0 "D_44" V 4420 4200 50  0000 R CNN
@@ -1326,7 +1326,7 @@ F 3 "" H 5400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_45
+L keyboard-rescue:D_Small-Device D_45
 U 1 1 00000450
 P 5350 4300
 F 0 "D_45" V 5420 4200 50  0000 R CNN
@@ -1354,7 +1354,7 @@ F 3 "" H 6400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_46
+L keyboard-rescue:D_Small-Device D_46
 U 1 1 00000460
 P 6350 4300
 F 0 "D_46" V 6420 4200 50  0000 R CNN
@@ -1382,7 +1382,7 @@ F 3 "" H 7400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_47
+L keyboard-rescue:D_Small-Device D_47
 U 1 1 00000470
 P 7350 4300
 F 0 "D_47" V 7420 4200 50  0000 R CNN
@@ -1410,7 +1410,7 @@ F 3 "" H 8400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_48
+L keyboard-rescue:D_Small-Device D_48
 U 1 1 00000480
 P 8350 4300
 F 0 "D_48" V 8420 4200 50  0000 R CNN
@@ -1438,7 +1438,7 @@ F 3 "" H 9400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_49
+L keyboard-rescue:D_Small-Device D_49
 U 1 1 00000490
 P 9350 4300
 F 0 "D_49" V 9420 4200 50  0000 R CNN
@@ -1466,7 +1466,7 @@ F 3 "" H 10400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_50
+L keyboard-rescue:D_Small-Device D_50
 U 1 1 00000500
 P 10350 4300
 F 0 "D_50" V 10420 4200 50  0000 R CNN
@@ -1494,7 +1494,7 @@ F 3 "" H 11400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_51
+L keyboard-rescue:D_Small-Device D_51
 U 1 1 00000510
 P 11350 4300
 F 0 "D_51" V 11420 4200 50  0000 R CNN
@@ -1522,7 +1522,7 @@ F 3 "" H 12400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_52
+L keyboard-rescue:D_Small-Device D_52
 U 1 1 00000520
 P 12350 4300
 F 0 "D_52" V 12420 4200 50  0000 R CNN
@@ -1550,7 +1550,7 @@ F 3 "" H 13400 4000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_53
+L keyboard-rescue:D_Small-Device D_53
 U 1 1 00000530
 P 13350 4300
 F 0 "D_53" V 13420 4200 50  0000 R CNN
@@ -1572,13 +1572,13 @@ U 1 1 00000401
 P 14400 4000
 F 0 "K_40" H 14400 4233 60  0000 C CNN
 F 1 "KEYSW" H 14400 3900 60  0001 C CNN
-F 2 "MX_Only:MXOnly-1.25U-Hotswap" H 14400 4000 60  0001 C CNN
+F 2 "MX_Only:MXOnly-ISO-NoLED-Hotswap" H 14400 4000 60  0001 C CNN
 F 3 "" H 14400 4000 60  0000 C CNN
 	1    14400 4000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_40
+L keyboard-rescue:D_Small-Device D_40
 U 1 1 00000400
 P 14350 4300
 F 0 "D_40" V 14420 4200 50  0000 R CNN
@@ -1609,7 +1609,7 @@ F 3 "" H 1400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_54
+L keyboard-rescue:D_Small-Device D_54
 U 1 1 00000540
 P 1350 5300
 F 0 "D_54" V 1420 5200 50  0000 R CNN
@@ -1637,7 +1637,7 @@ F 3 "" H 2400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_55
+L keyboard-rescue:D_Small-Device D_55
 U 1 1 00000550
 P 2350 5300
 F 0 "D_55" V 2420 5200 50  0000 R CNN
@@ -1665,7 +1665,7 @@ F 3 "" H 3400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_56
+L keyboard-rescue:D_Small-Device D_56
 U 1 1 00000560
 P 3350 5300
 F 0 "D_56" V 3420 5200 50  0000 R CNN
@@ -1693,7 +1693,7 @@ F 3 "" H 4400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_57
+L keyboard-rescue:D_Small-Device D_57
 U 1 1 00000570
 P 4350 5300
 F 0 "D_57" V 4420 5200 50  0000 R CNN
@@ -1720,7 +1720,7 @@ F 3 "" H 5400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_58
+L keyboard-rescue:D_Small-Device D_58
 U 1 1 00000580
 P 5350 5300
 F 0 "D_58" V 5420 5200 50  0000 R CNN
@@ -1747,7 +1747,7 @@ F 3 "" H 6400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_59
+L keyboard-rescue:D_Small-Device D_59
 U 1 1 00000590
 P 6350 5300
 F 0 "D_59" V 6420 5200 50  0000 R CNN
@@ -1774,7 +1774,7 @@ F 3 "" H 7400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_60
+L keyboard-rescue:D_Small-Device D_60
 U 1 1 00000600
 P 7350 5300
 F 0 "D_60" V 7420 5200 50  0000 R CNN
@@ -1802,7 +1802,7 @@ F 3 "" H 8400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_61
+L keyboard-rescue:D_Small-Device D_61
 U 1 1 00000610
 P 8350 5300
 F 0 "D_61" V 8420 5200 50  0000 R CNN
@@ -1829,7 +1829,7 @@ F 3 "" H 9400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_62
+L keyboard-rescue:D_Small-Device D_62
 U 1 1 00000620
 P 9350 5300
 F 0 "D_62" V 9420 5200 50  0000 R CNN
@@ -1856,7 +1856,7 @@ F 3 "" H 10400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_63
+L keyboard-rescue:D_Small-Device D_63
 U 1 1 00000630
 P 10350 5300
 F 0 "D_63" V 10420 5200 50  0000 R CNN
@@ -1883,7 +1883,7 @@ F 3 "" H 11400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_64
+L keyboard-rescue:D_Small-Device D_64
 U 1 1 00000640
 P 11350 5300
 F 0 "D_64" V 11420 5200 50  0000 R CNN
@@ -1911,7 +1911,7 @@ F 3 "" H 12400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_65
+L keyboard-rescue:D_Small-Device D_65
 U 1 1 00000650
 P 12350 5300
 F 0 "D_65" V 12420 5200 50  0000 R CNN
@@ -1939,7 +1939,7 @@ F 3 "" H 13400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_66
+L keyboard-rescue:D_Small-Device D_66
 U 1 1 00000660
 P 13350 5300
 F 0 "D_66" V 13420 5200 50  0000 R CNN
@@ -1967,7 +1967,7 @@ F 3 "" H 14400 5000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_67
+L keyboard-rescue:D_Small-Device D_67
 U 1 1 00000670
 P 14350 5300
 F 0 "D_67" V 14420 5200 50  0000 R CNN
@@ -1998,7 +1998,7 @@ F 3 "" H 1400 6000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_68
+L keyboard-rescue:D_Small-Device D_68
 U 1 1 00000680
 P 1350 6300
 F 0 "D_68" V 1420 6200 50  0000 R CNN
@@ -2025,7 +2025,7 @@ F 3 "" H 2400 6000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_69
+L keyboard-rescue:D_Small-Device D_69
 U 1 1 00000690
 P 2350 6300
 F 0 "D_69" V 2420 6200 50  0000 R CNN
@@ -2052,7 +2052,7 @@ F 3 "" H 3400 6000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_70
+L keyboard-rescue:D_Small-Device D_70
 U 1 1 00000700
 P 3350 6300
 F 0 "D_70" V 3420 6200 50  0000 R CNN
@@ -2079,7 +2079,7 @@ F 3 "" H 7400 6000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_71
+L keyboard-rescue:D_Small-Device D_71
 U 1 1 00000710
 P 7350 6300
 F 0 "D_71" V 7420 6200 50  0000 R CNN
@@ -2106,7 +2106,7 @@ F 3 "" H 11400 6000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_72
+L keyboard-rescue:D_Small-Device D_72
 U 1 1 00000720
 P 11350 6300
 F 0 "D_72" V 11420 6200 50  0000 R CNN
@@ -2133,7 +2133,7 @@ F 3 "" H 12400 6000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_73
+L keyboard-rescue:D_Small-Device D_73
 U 1 1 00000730
 P 12350 6300
 F 0 "D_73" V 12420 6200 50  0000 R CNN
@@ -2160,7 +2160,7 @@ F 3 "" H 13400 6000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_74
+L keyboard-rescue:D_Small-Device D_74
 U 1 1 00000740
 P 13350 6300
 F 0 "D_74" V 13420 6200 50  0000 R CNN
@@ -2187,7 +2187,7 @@ F 3 "" H 14400 6000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_75
+L keyboard-rescue:D_Small-Device D_75
 U 1 1 00000750
 P 14350 6300
 F 0 "D_75" V 14420 6200 50  0000 R CNN
@@ -2214,7 +2214,7 @@ F 3 "" H 15400 6000 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:D_Small D_76
+L keyboard-rescue:D_Small-Device D_76
 U 1 1 00000760
 P 15350 6300
 F 0 "D_76" V 15420 6200 50  0000 R CNN
@@ -2498,4 +2498,576 @@ Wire Wire Line
 	13800 950  13800 1950
 Wire Wire Line
 	14800 950  14800 1950
+$Comp
+L MCU_Microchip_ATmega:ATmega32U4-AU U1
+U 1 1 6104648A
+P 4450 11650
+F 0 "U1" H 4450 9761 50  0000 C CNN
+F 1 "ATmega32U4-AU" H 4450 9670 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 4450 11650 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 4450 11650 50  0001 C CNN
+	1    4450 11650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0101
+U 1 1 6104F5C9
+P 4350 9750
+F 0 "#PWR0101" H 4350 9600 50  0001 C CNN
+F 1 "+5V" H 4365 9923 50  0000 C CNN
+F 2 "" H 4350 9750 50  0001 C CNN
+F 3 "" H 4350 9750 50  0001 C CNN
+	1    4350 9750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 61050842
+P 4350 13750
+F 0 "#PWR0102" H 4350 13500 50  0001 C CNN
+F 1 "GND" H 4355 13577 50  0000 C CNN
+F 2 "" H 4350 13750 50  0001 C CNN
+F 3 "" H 4350 13750 50  0001 C CNN
+	1    4350 13750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 13450 4350 13750
+Wire Wire Line
+	4450 13450 4350 13450
+Connection ~ 4350 13450
+Wire Wire Line
+	4350 9750 4350 9850
+Wire Wire Line
+	4550 9850 4450 9850
+Connection ~ 4350 9850
+Connection ~ 4450 9850
+Wire Wire Line
+	4450 9850 4350 9850
+$Comp
+L Device:R_Small R6
+U 1 1 610BAB54
+P 5500 12250
+F 0 "R6" V 5304 12250 50  0000 C CNN
+F 1 "10k" V 5395 12250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 5500 12250 50  0001 C CNN
+F 3 "~" H 5500 12250 50  0001 C CNN
+	1    5500 12250
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 610BB6E0
+P 5750 12250
+F 0 "#PWR0103" H 5750 12000 50  0001 C CNN
+F 1 "GND" H 5755 12077 50  0000 C CNN
+F 2 "" H 5750 12250 50  0001 C CNN
+F 3 "" H 5750 12250 50  0001 C CNN
+	1    5750 12250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 12250 5750 12250
+Wire Wire Line
+	5400 12250 5050 12250
+$Comp
+L Device:R_Small R5
+U 1 1 610F2D0F
+P 3450 11250
+F 0 "R5" V 3550 11250 50  0000 C CNN
+F 1 "22" V 3650 11250 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 3450 11250 50  0001 C CNN
+F 3 "~" H 3450 11250 50  0001 C CNN
+	1    3450 11250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R4
+U 1 1 610F356C
+P 3150 11150
+F 0 "R4" V 2954 11150 50  0000 C CNN
+F 1 "22" V 3045 11150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 3150 11150 50  0001 C CNN
+F 3 "~" H 3150 11150 50  0001 C CNN
+	1    3150 11150
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3550 11250 3850 11250
+Wire Wire Line
+	3250 11150 3850 11150
+Wire Wire Line
+	3350 11250 2900 11250
+Wire Wire Line
+	3050 11150 2900 11150
+$Comp
+L Device:C_Small C3
+U 1 1 6119CE89
+P 3650 11550
+F 0 "C3" H 3450 11500 50  0000 L CNN
+F 1 "1uF" H 3450 11400 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 3650 11550 50  0001 C CNN
+F 3 "~" H 3650 11550 50  0001 C CNN
+	1    3650 11550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3850 11450 3650 11450
+$Comp
+L power:GND #PWR0104
+U 1 1 611BA873
+P 3650 11800
+F 0 "#PWR0104" H 3650 11550 50  0001 C CNN
+F 1 "GND" H 3655 11627 50  0000 C CNN
+F 2 "" H 3650 11800 50  0001 C CNN
+F 3 "" H 3650 11800 50  0001 C CNN
+	1    3650 11800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3650 11650 3650 11800
+$Comp
+L Device:C_Small C6
+U 1 1 611D797D
+P 3050 12700
+F 0 "C6" H 3142 12746 50  0000 L CNN
+F 1 "0.1uF" H 3142 12655 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 3050 12700 50  0001 C CNN
+F 3 "~" H 3050 12700 50  0001 C CNN
+	1    3050 12700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C7
+U 1 1 611D8389
+P 3550 12700
+F 0 "C7" H 3642 12746 50  0000 L CNN
+F 1 "10uF" H 3642 12655 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 3550 12700 50  0001 C CNN
+F 3 "~" H 3550 12700 50  0001 C CNN
+	1    3550 12700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C5
+U 1 1 611D8C03
+P 2550 12700
+F 0 "C5" H 2642 12746 50  0000 L CNN
+F 1 "0.1uF" H 2642 12655 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 2550 12700 50  0001 C CNN
+F 3 "~" H 2550 12700 50  0001 C CNN
+	1    2550 12700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C4
+U 1 1 611D9387
+P 2050 12700
+F 0 "C4" H 2142 12746 50  0000 L CNN
+F 1 "0.1uF" H 2142 12655 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 2050 12700 50  0001 C CNN
+F 3 "~" H 2050 12700 50  0001 C CNN
+	1    2050 12700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2050 12600 2550 12600
+Connection ~ 2550 12600
+Wire Wire Line
+	2550 12600 2800 12600
+Connection ~ 3050 12600
+Wire Wire Line
+	3050 12600 3550 12600
+Wire Wire Line
+	3550 12800 3050 12800
+Connection ~ 2550 12800
+Wire Wire Line
+	2550 12800 2050 12800
+Connection ~ 3050 12800
+Wire Wire Line
+	3050 12800 2800 12800
+$Comp
+L power:+5V #PWR0105
+U 1 1 612135CE
+P 2800 12500
+F 0 "#PWR0105" H 2800 12350 50  0001 C CNN
+F 1 "+5V" H 2815 12673 50  0000 C CNN
+F 2 "" H 2800 12500 50  0001 C CNN
+F 3 "" H 2800 12500 50  0001 C CNN
+	1    2800 12500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 612142F8
+P 2800 12900
+F 0 "#PWR0106" H 2800 12650 50  0001 C CNN
+F 1 "GND" H 2805 12727 50  0000 C CNN
+F 2 "" H 2800 12900 50  0001 C CNN
+F 3 "" H 2800 12900 50  0001 C CNN
+	1    2800 12900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2800 12500 2800 12600
+Connection ~ 2800 12600
+Wire Wire Line
+	2800 12600 3050 12600
+Wire Wire Line
+	2800 12900 2800 12800
+Connection ~ 2800 12800
+Wire Wire Line
+	2800 12800 2550 12800
+$Comp
+L power:+5V #PWR0107
+U 1 1 6125291A
+P 3600 10950
+F 0 "#PWR0107" H 3600 10800 50  0001 C CNN
+F 1 "+5V" H 3615 11123 50  0000 C CNN
+F 2 "" H 3600 10950 50  0001 C CNN
+F 3 "" H 3600 10950 50  0001 C CNN
+	1    3600 10950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3600 10950 3850 10950
+Wire Wire Line
+	3850 10550 2650 10550
+Wire Wire Line
+	3850 10350 2650 10350
+$Comp
+L Device:C_Small C1
+U 1 1 612B384F
+P 2250 10250
+F 0 "C1" V 2021 10250 50  0000 C CNN
+F 1 "22pF" V 2112 10250 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 2250 10250 50  0001 C CNN
+F 3 "~" H 2250 10250 50  0001 C CNN
+	1    2250 10250
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C_Small C2
+U 1 1 612B4246
+P 2250 10700
+F 0 "C2" V 2021 10700 50  0000 C CNN
+F 1 "22pF" V 2112 10700 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 2250 10700 50  0001 C CNN
+F 3 "~" H 2250 10700 50  0001 C CNN
+	1    2250 10700
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	2650 10350 2650 10250
+Wire Wire Line
+	2650 10250 2350 10250
+Connection ~ 2650 10350
+Wire Wire Line
+	2150 10250 1950 10250
+Wire Wire Line
+	1950 10250 1950 10700
+Wire Wire Line
+	2150 10700 1950 10700
+Connection ~ 1950 10700
+Wire Wire Line
+	1950 10700 1950 10850
+Wire Wire Line
+	2650 10550 2650 10700
+Wire Wire Line
+	2650 10700 2350 10700
+Connection ~ 2650 10550
+Wire Wire Line
+	2750 10450 2750 10850
+Wire Wire Line
+	2750 10850 2550 10850
+Connection ~ 1950 10850
+Wire Wire Line
+	1950 10850 1950 10900
+Wire Wire Line
+	2550 10450 2550 10850
+Connection ~ 2550 10850
+Wire Wire Line
+	2550 10850 1950 10850
+$Comp
+L power:GND #PWR0108
+U 1 1 61379D36
+P 1950 10900
+F 0 "#PWR0108" H 1950 10650 50  0001 C CNN
+F 1 "GND" H 1955 10727 50  0000 C CNN
+F 2 "" H 1950 10900 50  0001 C CNN
+F 3 "" H 1950 10900 50  0001 C CNN
+	1    1950 10900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW1
+U 1 1 6137B337
+P 3500 10050
+F 0 "SW1" H 3500 10335 50  0000 C CNN
+F 1 "SW_Push" H 3500 10244 50  0000 C CNN
+F 2 "random-keyboard-parts.:SKQG-1155865" H 3500 10250 50  0001 C CNN
+F 3 "~" H 3500 10250 50  0001 C CNN
+	1    3500 10050
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 6137C036
+P 3250 10100
+F 0 "#PWR0109" H 3250 9850 50  0001 C CNN
+F 1 "GND" H 3255 9927 50  0000 C CNN
+F 2 "" H 3250 10100 50  0001 C CNN
+F 3 "" H 3250 10100 50  0001 C CNN
+	1    3250 10100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3300 10050 3250 10050
+Wire Wire Line
+	3250 10050 3250 10100
+Wire Wire Line
+	3700 10050 3750 10050
+Wire Wire Line
+	3750 10050 3750 10150
+Wire Wire Line
+	3750 10150 3800 10150
+$Comp
+L Device:R_Small R1
+U 1 1 613C4E3E
+P 3800 9850
+F 0 "R1" H 3859 9896 50  0000 L CNN
+F 1 "10k" H 3859 9805 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 3800 9850 50  0001 C CNN
+F 3 "~" H 3800 9850 50  0001 C CNN
+	1    3800 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0110
+U 1 1 613C590C
+P 3800 9750
+F 0 "#PWR0110" H 3800 9600 50  0001 C CNN
+F 1 "+5V" H 3815 9923 50  0000 C CNN
+F 2 "" H 3800 9750 50  0001 C CNN
+F 3 "" H 3800 9750 50  0001 C CNN
+	1    3800 9750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3800 9950 3800 10150
+Connection ~ 3800 10150
+Wire Wire Line
+	3800 10150 3850 10150
+Text GLabel 2900 11250 0    50   Output ~ 0
+D-
+Text GLabel 2900 11150 0    50   Output ~ 0
+D+
+$Comp
+L Connector:USB_C_Receptacle J1
+U 1 1 61044C0D
+P 8250 11250
+F 0 "J1" H 8357 12517 50  0000 C CNN
+F 1 "USB_C_Receptacle" H 8357 12426 50  0000 C CNN
+F 2 "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12" H 8400 11250 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 8400 11250 50  0001 C CNN
+F 4 "C167321" H 8250 11250 50  0001 C CNN "JLCPCB"
+	1    8250 11250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R3
+U 1 1 61048B1B
+P 9650 10550
+F 0 "R3" V 9454 10550 50  0000 C CNN
+F 1 "5k1" V 9545 10550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 9650 10550 50  0001 C CNN
+F 3 "~" H 9650 10550 50  0001 C CNN
+	1    9650 10550
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R_Small R2
+U 1 1 61049B87
+P 9350 10450
+F 0 "R2" V 9546 10450 50  0000 C CNN
+F 1 "5k1" V 9455 10450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" H 9350 10450 50  0001 C CNN
+F 3 "~" H 9350 10450 50  0001 C CNN
+	1    9350 10450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 6104A412
+P 10150 10550
+F 0 "#PWR0111" H 10150 10300 50  0001 C CNN
+F 1 "GND" H 10155 10377 50  0000 C CNN
+F 2 "" H 10150 10550 50  0001 C CNN
+F 3 "" H 10150 10550 50  0001 C CNN
+	1    10150 10550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10150 10550 9750 10550
+Wire Wire Line
+	9550 10550 8850 10550
+Wire Wire Line
+	8850 10450 9250 10450
+Wire Wire Line
+	9450 10450 10150 10450
+Wire Wire Line
+	10150 10450 10150 10550
+Connection ~ 10150 10550
+Wire Wire Line
+	8850 10750 8850 10800
+Wire Wire Line
+	8850 10950 8850 11000
+$Comp
+L power:+5V #PWR0112
+U 1 1 6113208D
+P 9650 9850
+F 0 "#PWR0112" H 9650 9700 50  0001 C CNN
+F 1 "+5V" H 9665 10023 50  0000 C CNN
+F 2 "" H 9650 9850 50  0001 C CNN
+F 3 "" H 9650 9850 50  0001 C CNN
+	1    9650 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:Fuse_Small F1
+U 1 1 61132FDD
+P 9350 9850
+F 0 "F1" H 9350 10035 50  0000 C CNN
+F 1 "500mA" H 9350 9944 50  0000 C CNN
+F 2 "Fuse:Fuse_1206_3216Metric" H 9350 9850 50  0001 C CNN
+F 3 "~" H 9350 9850 50  0001 C CNN
+	1    9350 9850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR0113
+U 1 1 61134452
+P 9050 9850
+F 0 "#PWR0113" H 9050 9700 50  0001 C CNN
+F 1 "VCC" H 9065 10023 50  0000 C CNN
+F 2 "" H 9050 9850 50  0001 C CNN
+F 3 "" H 9050 9850 50  0001 C CNN
+	1    9050 9850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8850 10250 8950 10250
+Wire Wire Line
+	8950 10250 8950 9850
+Wire Wire Line
+	8950 9850 9050 9850
+Wire Wire Line
+	9050 9850 9250 9850
+Connection ~ 9050 9850
+Wire Wire Line
+	9450 9850 9650 9850
+Text GLabel 9400 10800 2    50   Input ~ 0
+D-
+Text GLabel 9400 11000 2    50   Input ~ 0
+D+
+Wire Wire Line
+	9400 11000 8850 11000
+Connection ~ 8850 11000
+Wire Wire Line
+	8850 11000 8850 11050
+Wire Wire Line
+	9400 10800 8850 10800
+Connection ~ 8850 10800
+Wire Wire Line
+	8850 10800 8850 10850
+$Comp
+L power:GND #PWR0114
+U 1 1 611F4C22
+P 8550 12900
+F 0 "#PWR0114" H 8550 12650 50  0001 C CNN
+F 1 "GND" H 8555 12727 50  0000 C CNN
+F 2 "" H 8550 12900 50  0001 C CNN
+F 3 "" H 8550 12900 50  0001 C CNN
+	1    8550 12900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8250 12850 8550 12850
+Wire Wire Line
+	8550 12850 8550 12900
+NoConn ~ 8850 12550
+NoConn ~ 8850 12450
+NoConn ~ 8850 12250
+NoConn ~ 8850 12150
+NoConn ~ 8850 11950
+NoConn ~ 8850 11850
+NoConn ~ 8850 11650
+NoConn ~ 8850 11550
+NoConn ~ 8850 11350
+NoConn ~ 8850 11250
+Text Label 3550 11150 0    50   ~ 0
+D+_OUT
+Text Label 3550 11250 0    50   ~ 0
+D-_OUT
+Wire Wire Line
+	7950 12850 8250 12850
+Connection ~ 8250 12850
+$Comp
+L Device:Crystal_GND24_Small Y1
+U 1 1 61273F1C
+P 2650 10450
+F 0 "Y1" V 2700 10200 50  0000 L CNN
+F 1 "Crystal_GND24_Small" V 2600 9500 50  0000 L CNN
+F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 2650 10450 50  0001 C CNN
+F 3 "~" H 2650 10450 50  0001 C CNN
+	1    2650 10450
+	0    -1   -1   0   
+$EndComp
+NoConn ~ 3850 10750
+Text GLabel 5050 12350 2    50   Output ~ 0
+col0
+Text GLabel 5050 10150 2    50   Output ~ 0
+col1
+Text GLabel 5050 10250 2    50   Output ~ 0
+col2
+Text GLabel 5050 10350 2    50   Output ~ 0
+col3
+Text GLabel 5050 10450 2    50   Output ~ 0
+col4
+Text GLabel 5050 11650 2    50   Output ~ 0
+col5
+Text GLabel 5050 11850 2    50   Output ~ 0
+col6
+Text GLabel 5050 11750 2    50   Output ~ 0
+col7
+Text GLabel 5050 11950 2    50   Output ~ 0
+col8
+Text GLabel 5050 12050 2    50   Output ~ 0
+col9
+Text GLabel 5050 10550 2    50   Output ~ 0
+col10
+Text GLabel 5050 10650 2    50   Output ~ 0
+col11
+Text GLabel 5050 10750 2    50   Output ~ 0
+col12
+Text GLabel 5050 11050 2    50   Output ~ 0
+col13
+Text GLabel 5050 11150 2    50   Output ~ 0
+col14
+Text GLabel 5050 13050 2    50   Output ~ 0
+row0
+Text GLabel 5050 12950 2    50   Output ~ 0
+row1
+Text GLabel 5050 12850 2    50   Output ~ 0
+row2
+Text GLabel 5050 12750 2    50   Output ~ 0
+row3
+Text GLabel 5050 12650 2    50   Output ~ 0
+row4
+Text GLabel 5050 12550 2    50   Output ~ 0
+row5
+NoConn ~ 5050 11550
+NoConn ~ 5050 11450
+NoConn ~ 5050 11350
+NoConn ~ 5050 10850
 $EndSCHEMATC
