@@ -1,8 +1,5 @@
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-# WARNING: NOT GUARANTEED TO BE WORKING YET
-
-## PCBs have been ordered, when they arrive and complete functionality is confirmed, then use it away.
-
+# PCBs have been received and confirmed working, will upload the QMK files soon
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 # BareDev - A small, yet resourceful keyboard
