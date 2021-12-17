@@ -1,4 +1,6 @@
 (sym_lib_table
   (lib (name MX_Alps_Hybrid)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/MX_Alps_Hybrid.lib)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name YAAJ_WeAct_BlackPill_Part_Like)(type Legacy)(uri ${KIPRJMOD}/Kicad-STM32-master/Symbols/YAAJ_WeAct_BlackPill_Part_Like.lib)(options "")(descr ""))
+  (lib (name YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout)(type Legacy)(uri ${KIPRJMOD}/Kicad-STM32-master/Symbols/YAAJ_WeAct_BlackPill_Part_Like_SWD_Breakout.lib)(options "")(descr ""))
 )
