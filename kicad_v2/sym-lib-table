@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name MX_Alps_Hybrid)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/MX_Alps_Hybrid.lib)(options "")(descr ""))
-  (lib (name keyboard-rescue)(type Legacy)(uri ${KIPRJMOD}/keyboard-rescue.lib)(options "")(descr "")(disabled))
-  (lib (name custom_symbols)(type Legacy)(uri ${KIPRJMOD}/Schematic_Library/custom_symbols.lib)(options "")(descr ""))
-)
