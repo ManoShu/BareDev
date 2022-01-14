@@ -14,8 +14,8 @@ Links: [KLE](http://www.keyboard-layout-editor.com/#/gists/89e76130aa221e028ccd5
 ---
 
 ## PCB & Case
-![PCB preview on KiCad](https://i.imgur.com/byquO5u.png)
-![Prototype case](https://i.imgur.com/fkizunN.png)
+![PCB preview on KiCad](./images/pcb_preview.png)
+![Prototype case](./images/proto_case.png)
 
 Note: this photo is of an early prototype of the case. The uploaded files has been updated to require less total area and WILL look slighty different than shown (the overall dimensions remain the same).
 
