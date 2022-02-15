@@ -26,7 +26,9 @@ The case and gerber files are under `production`. The had been used and confirme
 
 The rev1 has been integrated in the [main QMK repository](https://github.com/qmk/qmk_firmware/tree/master/keyboards/handwired/baredev/rev1), being able to use the [online configurator](https://config.qmk.fm/#/handwired/baredev/rev1/LAYOUT_abnt2) to generate the firmware while also having the files on the `qmk` directory here in case of you don't want to update your fork (HOWEVER the files have been confirmed working on QMK 0.2.2 [check yours with `qmk --version`], previous versions might not have support for some of the tags in the` info.json` file)
 
-## VIA
+## VIA / VIAL
 
-A `via` keymap is available allowing to use VIA to change keybindings withou the need to setup QMK. 
-It is not integrated with the official repository yet (as I am waiting for a proper VID allocation), but the .json file required to change bindings is available on the `via` directory
+A `via` keymap is available allowing to use VIA to change keybindings without the need to setup QMK. 
+It is not integrated with the official repository yet, but the .json file required to change bindings is available on the `via` directory.
+
+A VIAL-compatible keymap is also available. It is on the official repository, but in case you don't want to update, just drop the keyboard folder to your `vial-qmk` directory and it should also work right off the bat.
