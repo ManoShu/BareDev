@@ -48,7 +48,13 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [
         "clearance|25624600|-7810600|1e052087-8dd6-4991-9ee6-ded618d7e82c|9ef9fad0-c9a7-4a79-9fd0-4cfd637afacc",
         "clearance|31299600|-7810600|b6401c61-498b-4025-b4e5-6a266075c417|f0dba31a-9201-43b8-b225-7fd4f7359e64"
@@ -116,8 +122,15 @@
         "min_via_diameter": 0.39999999999999997,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },

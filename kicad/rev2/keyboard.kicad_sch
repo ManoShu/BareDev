@@ -2095,7 +2095,7 @@
   (no_connect (at 63.5 327.66) (uuid 236d6a3c-a18f-4fc7-8b86-877d5dcc5962))
   (no_connect (at 39.37 189.23) (uuid 68fc958b-0e81-49ef-ad25-21da4a91eeec))
   (no_connect (at 93.98 312.42) (uuid e99c1ea8-4bb9-4098-9f42-4fb5bb49d415))
-  (no_connect (at 93.98 314.96) (uuid e99c1ea8-4bb9-4098-9f42-4fb5bb49d415))
+  (no_connect (at 93.98 314.96) (uuid e99c1ea8-4bb9-4098-9f42-4fb5bb49d416))
 
   (wire (pts (xy 237.49 35.56) (xy 262.89 35.56))
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -9770,7 +9770,7 @@
     (uuid 4bf0727d-6b56-44b6-9a02-6ac7fae46a01)
     (property "Reference" "D1" (id 0) (at 246.2022 183.7182 0))
     (property "Value" "LED" (id 1) (at 246.2022 186.0296 0))
-    (property "Footprint" "LED_SMD:LED_0603_1608Metric" (id 2) (at 246.38 189.23 0)
+    (property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (id 2) (at 246.38 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 246.38 189.23 0)
@@ -12213,7 +12213,7 @@
       (reference "C7") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/4bf0727d-6b56-44b6-9a02-6ac7fae46a01"
-      (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
+      (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder")
     )
     (path "/d8603679-3e7b-4337-8dbc-1827f5f54d8a"
       (reference "D_0") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
