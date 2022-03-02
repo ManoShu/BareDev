@@ -1,3 +1,5 @@
 (sym_lib_table
-	(lib (name "acheron_Symbols")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Symbols/acheron_Symbols.kicad_sym")(options "")(descr "Acheron Project symbol library"))
+  (lib (name "acheron_Symbols")(type "KiCad")(uri "${KIPRJMOD}/libraries/acheron_Symbols/acheron_Symbols.kicad_sym")(options "")(descr "Acheron Project symbol library"))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/libraries/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "${KIPRJMOD}/libraries/Type-C.pretty/Type-C.lib")(options "")(descr ""))
 )

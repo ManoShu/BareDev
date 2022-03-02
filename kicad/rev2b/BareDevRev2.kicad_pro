@@ -366,7 +366,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "joker48.kicad_pro",
+    "filename": "BareDevRev2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -442,7 +442,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 0,
+    "annotate_start_num": 500,
     "drawing": {
       "default_bus_thickness": 12.0,
       "default_junction_size": 47.24409448818898,
