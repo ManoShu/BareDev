@@ -1,0 +1,48 @@
+[submodule "kicad/kicad_files/libraries/acheron_Symbols"]
+	path = kicad/kicad_files/libraries/acheron_Symbols
+	url = https://github.com/AcheronProject/acheron_Symbols.git
+[submodule "kicad/kicad_files/libraries/acheron_Components.pretty"]
+	path = kicad/kicad_files/libraries/acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty.git
+[submodule "kicad/kicad_files/libraries/acheron_Connectors.pretty"]
+	path = kicad/kicad_files/libraries/acheron_Connectors.pretty
+	url = https://github.com/AcheronProject/acheron_Connectors.pretty.git
+[submodule "kicad/kicad_files/libraries/acheron_Hardware.pretty"]
+	path = kicad/kicad_files/libraries/acheron_Hardware.pretty
+	url = https://github.com/AcheronProject/acheron_Hardware.pretty.git
+[submodule "kicad/kicad_files/libraries/acheron_MX_soldermask.pretty"]
+	path = kicad/kicad_files/libraries/acheron_MX_soldermask.pretty
+	url = https://github.com/AcheronProject/acheron_MX_soldermask.pretty.git
+[submodule "kicad/kicad_files/libraries/acheron_Graphics.pretty"]
+	path = kicad/kicad_files/libraries/acheron_Graphics.pretty
+	url = https://github.com/AcheronProject/acheron_Graphics.pretty.git
+[submodule "kicad/kicad_files/libraries/acheron_Logos.pretty"]
+	path = kicad/kicad_files/libraries/acheron_Logos.pretty
+	url = https://github.com/AcheronProject/acheron_Logos.pretty.git
+[submodule "kicad/kicad_files/libraries/acheron_3D"]
+	path = kicad/kicad_files/libraries/acheron_3D
+	url = https://github.com/AcheronProject/acheron_3D.git
+[submodule "kicad/rev2b/libraries/acheron_Symbols"]
+	path = kicad/rev2b/libraries/acheron_Symbols
+	url = https://github.com/AcheronProject/acheron_Symbols.git
+[submodule "kicad/rev2b/libraries/acheron_Components.pretty"]
+	path = kicad/rev2b/libraries/acheron_Components.pretty
+	url = https://github.com/AcheronProject/acheron_Components.pretty.git
+[submodule "kicad/rev2b/libraries/acheron_Connectors.pretty"]
+	path = kicad/rev2b/libraries/acheron_Connectors.pretty
+	url = https://github.com/AcheronProject/acheron_Connectors.pretty.git
+[submodule "kicad/rev2b/libraries/acheron_Hardware.pretty"]
+	path = kicad/rev2b/libraries/acheron_Hardware.pretty
+	url = https://github.com/AcheronProject/acheron_Hardware.pretty.git
+[submodule "kicad/rev2b/libraries/acheron_MX_soldermask.pretty"]
+	path = kicad/rev2b/libraries/acheron_MX_soldermask.pretty
+	url = https://github.com/AcheronProject/acheron_MX_soldermask.pretty.git
+[submodule "kicad/rev2b/libraries/acheron_Graphics.pretty"]
+	path = kicad/rev2b/libraries/acheron_Graphics.pretty
+	url = https://github.com/AcheronProject/acheron_Graphics.pretty.git
+[submodule "kicad/rev2b/libraries/acheron_Logos.pretty"]
+	path = kicad/rev2b/libraries/acheron_Logos.pretty
+	url = https://github.com/AcheronProject/acheron_Logos.pretty.git
+[submodule "kicad/rev2b/libraries/acheron_3D"]
+	path = kicad/rev2b/libraries/acheron_3D
+	url = https://github.com/AcheronProject/acheron_3D.git
